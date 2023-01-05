@@ -1,0 +1,2 @@
+import{A as t}from"./index-e62b9253.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/diegoalmda.png",alt:"Diego Almeida"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","Withfallback"];export{m as Primary,p as Withfallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-cd84dc0a.js.map
